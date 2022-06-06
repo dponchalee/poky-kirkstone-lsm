@@ -1,0 +1,15 @@
+[submodule "layer/meta-security"]
+	path = layer/meta-security
+	url = http://git.yoctoproject.org/meta-security
+[submodule "layer/meta-selinux"]
+	path = layer/meta-selinux
+	url = https://git.yoctoproject.org/meta-selinux
+[submodule "layer/poky"]
+	path = layer/poky
+	url = git://git.yoctoproject.org/poky.git
+[submodule "layer/openembedded-core"]
+	path = layer/openembedded-core
+	url = https://git.openembedded.org/openembedded-core
+[submodule "layer/meta-openembedded"]
+	path = layer/meta-openembedded
+	url = https://git.openembedded.org/meta-openembedded
